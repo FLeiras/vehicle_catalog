@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "brand": "Toyota",
+        "model": "Corolla",
+        "year": 2022,
+        "price": 21500,
+        "color": "Blanco",
+        "transmission": "Automática",
+        "mileage": 12000,
+        "imageUrl": "https://example.com/corolla.jpg"
+    },
+    {
+        "id": 2,
+        "brand": "Ford",
+        "model": "Focus",
+        "year": 2020,
+        "price": 18500,
+        "color": "Negro",
+        "transmission": "Manual",
+        "mileage": 34000,
+        "imageUrl": "https://example.com/focus.jpg"
+    }
+]
